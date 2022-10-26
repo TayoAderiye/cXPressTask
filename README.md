@@ -9,7 +9,7 @@ Create cypresstask on your local server
  php artisan db:seed
 ```
 
-## Email and Password for seeder users
+## Email and Password for seeded users
 ```
 email - admin@admin.com
 password - Password@1234
