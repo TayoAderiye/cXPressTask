@@ -23,3 +23,8 @@ email - user1@user.com
 password - Password@1234
 ```
 
+## Postman Collection for apis
+```
+https://www.getpostman.com/collections/4aae5bdac10da052136b
+```
+
