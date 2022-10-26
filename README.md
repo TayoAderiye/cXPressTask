@@ -1,9 +1,11 @@
-Please follow the steps below
+## Usage
 
-# Rename .env.example to .env
+Rename .env.example to .env
 
-# Create cypresstask on your local server
+Create cypresstask on your local server
 
-# Run php artisan db:seed
-
+## DB Seeder
+```
+ php artisan db:seed
+```
 
