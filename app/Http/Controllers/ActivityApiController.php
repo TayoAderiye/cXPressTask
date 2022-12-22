@@ -17,6 +17,7 @@ class ActivityApiController extends Controller
     public DefaultApiResponse $response;
     public IActivityService $iActivityService;
     public IAuthService $iAuthService;
+    private $test;
     public function __construct(IActivityService $iActivityService, IAuthService $iAuthService)
     {
         $this->response = new DefaultApiResponse();
