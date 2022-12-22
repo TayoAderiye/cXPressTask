@@ -38,6 +38,7 @@ class AuthService implements IAuthService
         if (empty($user)) {
             $this->response->responseCode = '1';
             $this->response->message = "Invalid Credentials";
+            $x = 1;
             return $this->response;
         }
         //check password
